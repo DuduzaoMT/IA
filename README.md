@@ -1,8 +1,11 @@
-# IA
+# IA - Project
 Artificial Intelligence Project
 
-# Problem: 
-  . Connected Pipes Game
+## Problem(s): 
+- Connected Pipes
 
-# Solution: 
-  . DFS with some efficient improvements
+## Description: 
+- The AI project was a challenge to develop the most efficient search (as an uninformed search) for an NP problem.
+
+## Grade: 
+ - 19.25 / 20
